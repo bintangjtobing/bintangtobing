@@ -66,7 +66,7 @@
     <meta name="og:country-name" content="Indonesia" />
 </head>
 
-<body class="bg-light" id="top" style="background-color: #222222 !important;">
+<body class="bg-light" id="top" style="background-color: #222222 !important;" oncontextmenu="return false">
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
