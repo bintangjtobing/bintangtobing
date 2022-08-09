@@ -249,7 +249,7 @@
                     <div class="work-experience-section">
                         <h2 class="h2 fw-bold mb-4">Work Experience</h2>
                         <div class="timeline">
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">CEO-Founder<br><span class="text-muted h6">PT. Boxity Central
                                             Indonesia · Full-Time (Hybrid)</span><br><span
@@ -294,7 +294,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Frontend Developer<br><span class="text-muted h6">PT. Virtual Online
                                             Exchange · Full-Time (Full-Remote)</span><br><span
@@ -341,7 +341,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Full-stack Developer<br><span class="text-muted h6">PT. Benua Solusi
                                             Teknologi · Full-Time (On-Site)</span><br><span class="text-muted h6">Medan,
@@ -384,7 +384,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Web Developer<br><span class="text-muted h6">Digital Envision Pty
                                             Ltd · Full-Time (Hybrid)</span><br><span class="text-muted h6">Melbourne,
@@ -403,7 +403,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Full-Stack Developer<br><span class="text-muted h6">PT. Berlian
                                             Transtar Abadi · Full-Time (On-Site)</span><br><span
@@ -431,7 +431,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Web Developer & IT Consultant<br><span class="text-muted h6">PT.
                                             Metro Interior Medan · Full-Time (On-Site)</span><br><span
@@ -456,7 +456,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Web Developer & IT<br><span class="text-muted h6">PT.
                                             BPR NBP 18 · Full-Time (On-Site)</span><br><span
@@ -493,7 +493,7 @@
                     <div class="education-section">
                         <h2 class="h2 fw-bold mb-4">Education</h2>
                         <div class="timeline">
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Universitas Prima Indonesia <br><span
                                             class="text-muted h6">Bachelor's degree, Information Systems</span> </div>
@@ -505,7 +505,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">SMK Negeri 1 Percut Sei Tuan <br><span class="text-muted h6">High
                                             School Graduate, Software engineering</span>
@@ -526,7 +526,7 @@
                     <div class="education-section">
                         <h2 class="h2 fw-bold mb-4">License & Certifications</h2>
                         <div class="timeline">
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Cyber Security - Mini Bootcamp <br><span
                                             class="text-muted h6">Habiskerja.com</span>
@@ -538,7 +538,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">3D Design with Blender <br><span class="text-muted h6">Rubrik
                                             Grafis</span>
@@ -550,7 +550,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Front-End Web Development Quantum Degree <br><span
                                             class="text-muted h6">NEXT Academy | SEA's Best Coding/ Digital
@@ -565,7 +565,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Web Promotions & Optimize the SEO<br><span
                                             class="text-muted h6">Credential
@@ -586,7 +586,7 @@
                     <div class="work-experience-section">
                         <h2 class="h2 fw-bold mb-4">Organizations</h2>
                         <div class="timeline">
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Chief Ressort Coordinator<br><span class="text-muted h6">Remaja
                                             Naposobulung HKBP Ressort Medan Utara</span><br><span
@@ -616,7 +616,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Chairman<br><span class="text-muted h6">Remaja
                                             Naposobulung HKBP Glugur</span><br><span class="text-muted h6">Medan,
@@ -644,7 +644,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
+                            <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">Vice Chairman<br><span class="text-muted h6">Remaja
                                             Naposobulung HKBP Glugur</span><br><span class="text-muted h6">Medan,
