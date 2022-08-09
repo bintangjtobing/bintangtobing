@@ -43,15 +43,15 @@
     </noscript>
 
     {{-- meta --}}
-    <meta name="og:title" property="og:title" content="Home | PT Boxity Central Indonesia" />
+    <meta name="og:title" property="og:title" content="Bintang Tobing | Story and Profiles" />
     <meta name="og:url" property="og:url" content="https://bintangtobing.com" />
     <meta name="og:type" property="og:type" content="website" />
     <meta name="og:image" property="og:image"
         content="https://res.cloudinary.com/bintangtobing-com/image/upload/v1660037583/cover.jpg" />
     <meta name="og:description" property="og:description"
         content="Hi I'm Bintang Tobing, you can call me Bin. As you can see, yes this is my personal page for my resume, curicullum vitae, also you can see my projects." />
-    <meta name="twitter:card" content="Home | PT Boxity Central Indonesia" />
-    <meta name="twitter:title" property="og:title" content="Home | PT Boxity Central Indonesia" />
+    <meta name="twitter:card" content="Bintang Tobing | Story and Profiles" />
+    <meta name="twitter:title" property="og:title" content="Bintang Tobing | Story and Profiles" />
     <meta name="twitter:url" property="og:url" content="https://bintangtobing.com" />
     <meta name="twitter:type" property="og:type" content="website" />
     <meta name="twitter:image" property="og:image"
