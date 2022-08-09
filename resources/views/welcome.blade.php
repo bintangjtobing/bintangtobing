@@ -59,15 +59,14 @@
     <meta name="twitter:description" property="og:description"
         content="Hi I'm Bintang Tobing, you can call me Bin. As you can see, yes this is my personal page for my resume, curicullum vitae, also you can see my projects." />
     <link rel="canonical" href="https://bintangtobing.com/" />
-    <link rel="shortcut icon"
-        href="https://res.cloudinary.com/bintangtobing-com/image/upload/v1660038124/icon.png"
+    <link rel="shortcut icon" href="https://res.cloudinary.com/bintangtobing-com/image/upload/v1660038124/icon.png"
         type="image/png" sizes="64x64" />
     <meta name="og:email" content="hello@bintangtobing.com" />
     <meta name="og:phone_number" content="081262845980" />
     <meta name="og:country-name" content="Indonesia" />
 </head>
 
-<body class="bg-light" id="top">
+<body class="bg-light" id="top" style="background-color: #222222 !important;">
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
@@ -81,10 +80,11 @@
                 "https://twitter.com/bintangjtobing"
             ]
         }
+
     </script>
     <header class="d-print-none">
         <div class="container text-center text-lg-left">
-            <div class="pt-4 clearfix">
+            <div class="pt-4 clearfix" style="color: #fff !important;">
                 <?php $name = 'Bintang Tobing'; $desc = 'Help MSMEs business processes through SaaS & ERP easier!'; ?>
                 <h1 class="site-title mb-0">{{$name}}</h1>
                 <div class="site-nav">
