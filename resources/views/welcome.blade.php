@@ -68,6 +68,20 @@
 </head>
 
 <body class="bg-light" id="top">
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Bintang Tobing",
+            "url": "https://bintangtobing.com",
+            "address": "Jl Pelita IV Gang Aman No 7 Medan",
+            "sameAs": [
+                "https://facebook.com/bintangjtobing",
+                "https://instagram.com/bintangjtobing",
+                "https://twitter.com/bintangjtobing"
+            ]
+        }
+    </script>
     <header class="d-print-none">
         <div class="container text-center text-lg-left">
             <div class="pt-4 clearfix">
