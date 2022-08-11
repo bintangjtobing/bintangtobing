@@ -82,6 +82,18 @@
         }
 
     </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0FYGXHM9EK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-0FYGXHM9EK');
+    </script>
     <header class="d-print-none">
         <div class="container text-center text-lg-left">
             <div class="pt-4 clearfix" style="color: #fff !important;">
