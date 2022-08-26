@@ -93,6 +93,7 @@
         gtag('js', new Date());
 
         gtag('config', 'G-0FYGXHM9EK');
+
     </script>
     <header class="d-print-none">
         <div class="container text-center text-lg-left">
@@ -177,7 +178,7 @@
                                         </div>
                                         <div class="d-print-none"><a
                                                 class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3"
-                                                href="https://res.cloudinary.com/bintangtobing-com/image/upload/v1660036995/Bintang_Tobing.pdf"
+                                                href="https://res.cloudinary.com/bintangtobing-com/image/upload/v1661503201/Bintang_Tobing.pdf"
                                                 data-aos="fade-right" data-aos-delay="700">See Resume</a><a
                                                 class="btn btn-info btn-lg shadow-sm mt-1"
                                                 href="mailto:hello@bintangtobing.com" data-aos="fade-left"
