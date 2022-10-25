@@ -316,7 +316,8 @@
                                 <div class="timeline-body px-4 pb-4">
                                     <?php $bciStart = '01-04-2021'; $bciAge = Carbon::parse($bciStart)->diff(Carbon::now())->format('%y yrs, %m mos');?>
                                     <div class="text-muted text-small mb-3">
-                                        {{Carbon::parse($bciStart)->isoFormat('MMM YYYY')}} - Present · {{$bciAge}}
+                                        {{Carbon::parse($bciStart)->isoFormat('MMM YYYY')}} -
+                                        {{Carbon::parse('25-10-2022')->isoFormat('MMM YYYY')}} · {{$bciAge}}
                                     </div>
                                     <div>
                                         <p align="justify">
