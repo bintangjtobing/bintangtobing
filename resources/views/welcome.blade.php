@@ -178,7 +178,7 @@
                                         </div>
                                         <div class="d-print-none"><a
                                                 class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3"
-                                                href="https://res.cloudinary.com/bintangtobing-com/image/upload/v1661503201/Bintang_Tobing.pdf"
+                                                href="https://res.cloudinary.com/boxity-id/image/upload/v1670815479/bintang_tobing_rrit48.pdf"
                                                 data-aos="fade-right" data-aos-delay="700">See Resume</a><a
                                                 class="btn btn-info btn-lg shadow-sm mt-1"
                                                 href="mailto:hello@bintangtobing.com" data-aos="fade-left"
