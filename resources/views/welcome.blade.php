@@ -95,10 +95,11 @@
         gtag('config', 'G-0FYGXHM9EK');
 
     </script>
+    <script src="https://kit.fontawesome.com/38be3cea51.js" crossorigin="anonymous"></script>
     <header class="d-print-none">
         <div class="container text-center text-lg-left">
             <div class="pt-4 clearfix" style="color: #fff !important;">
-                <?php $name = 'Bintang Tobing'; $desc = 'Help MSMEs business processes through SaaS & ERP easier!'; ?>
+                <?php $name = 'Bintang Tobing'; $desc = 'I am trusted to build the startup that can help SMEs business process through ERP distributed by SaaS easier!'; ?>
                 <h1 class="site-title mb-0">{{$name}}</h1>
                 <div class="site-nav">
                     <nav role="navigation">
@@ -144,9 +145,9 @@
                                     <div class="header-bio mt-3">
                                         <div data-aos="zoom-in" data-aos-delay="0">
                                             <h2 class="h1">{{$name}}</h2>
-                                            <p>{{$desc}} <a href="https://instagram.com/godigitalwithboxity"
+                                            <p>{{$desc}} <a href="https://instagram.com/boxityid"
                                                     style="color: #fff !important;"><abbr
-                                                        title="Boxity Central Indonesia">@godigitalwithboxity</abbr></a>
+                                                        title="Boxity Central Indonesia">@boxityid</abbr></a>
                                             </p>
                                         </div>
                                         <div class="header-social mb-3 d-print-none" data-aos="zoom-in"
@@ -155,30 +156,37 @@
                                                 <ul class="nav justify-content-center">
                                                     <li class="nav-item"><a class="nav-link"
                                                             href="https://www.facebook.com/bintangjtobing"
-                                                            title="Facebook"><i class="fab fa-facebook"></i><span
+                                                            title="Facebook"><i
+                                                                class="fa-brands fa-facebook-f"></i><span
                                                                 class="menu-title sr-only">Facebook</span></a>
                                                     </li>
                                                     <li class="nav-item"><a class="nav-link"
                                                             href="https://www.instagram.com/bcjlt" title="Instagram"><i
-                                                                class="fab fa-instagram"></i><span
+                                                                class="fa-brands fa-instagram"></i><span
                                                                 class="menu-title sr-only">Instagram</span></a>
                                                     </li>
                                                     <li class="nav-item"><a class="nav-link"
-                                                            href="https://www.linkedin.com/in/bintangjtobing"
-                                                            title="Instagram"><i class="fab fa-linkedin"></i><span
+                                                            href="https://www.linkedin.com/in/bintangtobing/"
+                                                            title="Instagram"><i
+                                                                class="fa-brands fa-linkedin-in"></i><span
                                                                 class="menu-title sr-only">LinkedIn</span></a>
                                                     </li>
                                                     <li class="nav-item"><a class="nav-link"
                                                             href="https://github.com/bintangjtobing" title="Github"><i
-                                                                class="fab fa-github"></i><span
+                                                                class="fa-brands fa-github"></i><span
                                                                 class="menu-title sr-only">Github</span></a>
+                                                    </li>
+                                                    <li class="nav-item"><a class="nav-link"
+                                                            href="https://behance.com/bintangjtobing" title="behance"><i
+                                                                class="fa-brands fa-behance"></i><span
+                                                                class="menu-title sr-only">Behance</span></a>
                                                     </li>
                                                 </ul>
                                             </nav>
                                         </div>
                                         <div class="d-print-none"><a
                                                 class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3"
-                                                href="https://res.cloudinary.com/boxity-id/image/upload/v1670815479/bintang_tobing_rrit48.pdf"
+                                                href="https://res.cloudinary.com/boxity-id/image/upload/q_100/v1671158442/CV_Bintang_Tobing_Latest_Update_yp8lok.pdf"
                                                 data-aos="fade-right" data-aos-delay="700">See Resume</a><a
                                                 class="btn btn-info btn-lg shadow-sm mt-1"
                                                 href="mailto:hello@bintangtobing.com" data-aos="fade-left"
@@ -193,7 +201,7 @@
                     <div class="about-section">
                         <div class="row">
                             <div class="col-md-6">
-                                <h2 class="h2 fw-bold mb-4">About Me</h2>
+                                <h2 class="h2 fw-bold mb-4"><i class="fa-regular fa-circle-user"></i> About Me</h2>
                                 <p align="justify">
                                     I think my final dream is to become a musician, make music, compose song lyrics
                                     while sipping coffee in a music studio. I currently don't have any degree but my
@@ -230,24 +238,41 @@
                             </div>
                             <div class="col-md-5 offset-lg-1">
                                 <div class="row mt-2">
-                                    <h2 class="h2 fw-bold mb-4">Bio</h2>
+                                    <h2 class="h2 fw-bold mb-4"><i class="fa-regular fa-file"></i> Bio</h2>
                                     <div class="col-sm-5">
-                                        <div class="pb-2 fw-bolder"><i class="far fa-calendar-alt pe-2 text-muted"
-                                                style="width:24px;opacity:0.85;"></i> Age</div>
+                                        <div class="pb-2 fw-bolder"><i
+                                                class="fa-regular fa-calendar-days pe-2 text-muted"
+                                                style="width:24px;opacity:0.85;"></i> Date of Birth</div>
                                     </div>
                                     <div class="col-sm-7">
-                                        <?php $birthday = '21-10-1998'; $age = Carbon::parse($birthday)->diff(Carbon::now())->y;?>
-                                        <div class="pb-2">{{$age}} Years</div>
+                                        <div class="pb-2">Oct 21<sup>th</sup>, 1998</div>
                                     </div>
                                     <div class="col-sm-5">
-                                        <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted"
+                                        <div class="pb-2 fw-bolder"><i
+                                                class="fa-solid fa-map-location-dot pe-2 text-muted"
+                                                style="width:24px;opacity:0.85;"></i> Place of Birth</div>
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <div class="pb-2">Medan, Indonesia</div>
+                                    </div>
+                                    <div class="col-sm-5">
+                                        <div class="pb-2 fw-bolder"><i
+                                                class="fa-solid fa-calendar-check pe-2 text-muted"
+                                                style="width:24px;opacity:0.85;"></i> Age </div>
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <?php $birthday = '21-10-1998'; $age = Carbon::parse($birthday)->diff(Carbon::now())->format('%y Years, and %m Months');?>
+                                        <div class="pb-2">{{$age}}</div>
+                                    </div>
+                                    <div class="col-sm-5">
+                                        <div class="pb-2 fw-bolder"><i class="fa-regular fa-envelope pe-2 text-muted"
                                                 style="width:24px;opacity:0.85;"></i> Email</div>
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="pb-2">hello@bintangtobing.com</div>
                                     </div>
                                     <div class="col-sm-5">
-                                        <div class="pb-2 fw-bolder"><i class="fab fa-skype pe-2 text-muted"
+                                        <div class="pb-2 fw-bolder"><i class="fa-brands fa-skype pe-2 text-muted"
                                                 style="width:24px;opacity:0.85;"></i> Skype</div>
                                     </div>
                                     <div class="col-sm-7">
@@ -260,12 +285,12 @@
                 </div>
                 <div class="shadow-1-strong bg-white my-5 p-5" id="experience" style="border-radius: .35rem;">
                     <div class="work-experience-section">
-                        <h2 class="h2 fw-bold mb-4">Work Experience</h2>
+                        <h2 class="h2 fw-bold mb-4"><i class="fa-solid fa-briefcase"></i> Work Experience</h2>
                         <div class="timeline">
                             <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
                                     <div class="h5">CEO-Founder<br><span class="text-muted h6">PT. Boxity Central
-                                            Indonesia · Full-Time (Hybrid)</span><br><span
+                                            Indonesia · Full-Time (Hybrid) · Self Employed</span><br><span
                                             class="text-muted h6">Jakarta, Indonesia</span></div>
                                 </div>
                                 <div class="timeline-body px-4 pb-4">
@@ -505,7 +530,7 @@
                 </div>
                 <div class="shadow-1-strong bg-white my-5 p-5" id="education" style="border-radius: .35rem;">
                     <div class="education-section">
-                        <h2 class="h2 fw-bold mb-4">Education</h2>
+                        <h2 class="h2 fw-bold mb-4"><i class="fa-solid fa-user-graduate"></i> Education</h2>
                         <div class="timeline">
                             <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
@@ -538,7 +563,7 @@
                 </div>
                 <div class="shadow-1-strong bg-white my-5 p-5" id="licenses" style="border-radius: .35rem;">
                     <div class="education-section">
-                        <h2 class="h2 fw-bold mb-4">License & Certifications</h2>
+                        <h2 class="h2 fw-bold mb-4"><i class="fa-solid fa-id-card"></i> License & Certifications</h2>
                         <div class="timeline">
                             <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
@@ -598,7 +623,7 @@
                 </div>
                 <div class="shadow-1-strong bg-white my-5 p-5" id="organizations" style="border-radius: .35rem;">
                     <div class="work-experience-section">
-                        <h2 class="h2 fw-bold mb-4">Organizations</h2>
+                        <h2 class="h2 fw-bold mb-4"><i class="fa-solid fa-users-viewfinder"></i> Organizations</h2>
                         <div class="timeline">
                             <div class="timeline-card timeline-card-disabled" data-aos="fade-in" data-aos-delay="0">
                                 <div class="timeline-head px-4 pt-3">
@@ -689,7 +714,7 @@
                 </div>
                 <div class="shadow-1-strong bg-white my-5 p-5" id="skills" style="border-radius: .35rem;">
                     <div class="skills-section">
-                        <h2 class="h2 fw-bold mb-4">Skills</h2>
+                        <h2 class="h2 fw-bold mb-4"><i class="fa-solid fa-feather-pointed"></i> Skills</h2>
                         <div class="row">
                             <div class="col-md-6">
                                 <p>
@@ -737,20 +762,24 @@
                     <nav role="navigation">
                         <ul class="nav justify-content-center">
                             <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/bintangjtobing"
-                                    title="Facebook"><i class="fab fa-facebook"></i><span
+                                    title="Facebook"><i class="fa-brands fa-facebook-f"></i><span
                                         class="menu-title sr-only">Facebook</span></a>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/bcjlt"
-                                    title="Instagram"><i class="fab fa-instagram"></i><span
+                                    title="Instagram"><i class="fa-brands fa-instagram"></i><span
                                         class="menu-title sr-only">Instagram</span></a>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/bintangjtobing"
-                                    title="Instagram"><i class="fab fa-linkedin"></i><span
+                            <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/bintangtobing/"
+                                    title="Instagram"><i class="fa-brands fa-linkedin-in"></i><span
                                         class="menu-title sr-only">LinkedIn</span></a>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="https://github.com/bintangjtobing"
-                                    title="Github"><i class="fab fa-github"></i><span
+                                    title="Github"><i class="fa-brands fa-github"></i><span
                                         class="menu-title sr-only">Github</span></a>
+                            </li>
+                            <li class="nav-item"><a class="nav-link" href="https://behance.com/bintangjtobing"
+                                    title="Behance"><i class="fa-brands fa-behance"></i><span
+                                        class="menu-title sr-only">Behance</span></a>
                             </li>
                         </ul>
                     </nav>
