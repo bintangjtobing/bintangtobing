@@ -201,39 +201,25 @@
                     <div class="about-section">
                         <div class="row">
                             <div class="col-md-6">
-                                <h2 class="h2 fw-bold mb-4"><i class="fa-regular fa-circle-user"></i> About Me</h2>
+                                <h2 class="h2 fw-bold mb-4"><i class="fa-regular fa-circle-user"></i> Summary</h2>
                                 <p align="justify">
-                                    I think my final dream is to become a musician, make music, compose song lyrics
-                                    while sipping coffee in a music studio. I currently don't have any degree but my
-                                    music hobby has been around since I was 7 years old. And at that time I felt less
-                                    about this kind of thing. I wanted to learn something different, and then I found
-                                    something interesting, which is design. Starting from learning photo manipulation,
-                                    painting design in Photoshop, at that time I studied Photoshop 6.0 and had not yet
-                                    touched the creative suite version of Photoshop. At that time, until I reached the
-                                    age of 13, I started to feel a little bored with the design.
+                                    Hi, I'm Bintang, I fall in love with developing programs, especially web-based ones
+                                    when I was 16 years old when I sat in High School. And I ever leading a youth group
+                                    that has more than 40 people, from 2014 to last 2019, led a team to build a product,
+                                    and right now leading a team to grow up my startup business, also I have an
+                                    experience in the development of web applications for almost 7 years in frontend
+                                    VueJS for nearly 3 years and backend Laravel for nearly 4 years. Right now, I'm
+                                    applying to a new company, to learn more about managing teams overseas, I believe
+                                    that I'm fit for the new one, because, I am focused, committed, happy with learning
+                                    new things, and can work together with many people that have different cultures at
+                                    work.
                                     <br><br>
-                                    Here I accepted my first job in a very new and challenging way. Because this is
-                                    something that is completely different from what I have ever experienced, namely
-                                    creating a site that contains simple information, is fairly simple but challenging
-                                    because it is very new. Of course, I accepted and I tried the new thing (I mean
-                                    seriously, how can I finish a project with zero knowledge?), And as a result, I was
-                                    able and finished the project within 30 days.
+                                    So far I have C++, SQL, JavaScript, HTML, CSS, VueJs, Bootstrap, Laravel, PHP,
+                                    jQuery, and also git/Github. I'm also learning React and Node.Js.
                                     <br><br>
-                                    While I was deep in, front-end development, I was able to combine my creativity with
-                                    code, applying responsive design principles. Difficult but very satisfying. I can
-                                    shape, be shaped but I keep my creativity intact.
-                                    <br><br>
-                                    And then, I challenge to study and deepen, back-end development, on the other hand,
-                                    I also like things that have logic. I thought this was impossible for me to learn,
-                                    but after trying it, learning Model View Create (MVC), learning the Create Read
-                                    Update Delete (CRUD) method, trying to merge my project to make it visible on GitHub
-                                    account, it's not as difficult as I thought.
-                                    <br><br>
-                                    So far I have C ++, SQL, Javascript, HTML, CSS, VueJs, Bootstrap, Laravel, PHP,
-                                    jQuery, and also git / Github. I'm also studying React, Node.Js.
-                                    It's crazy, I'm still very enthusiastic about programming technology for the future,
-                                    frameworks, crazy ideas, or other principles that maybe I can integrate into the
-                                    coding in my head.
+                                    Damn, I'm still very enthusiastic about future programming technologies, frameworks,
+                                    crazy ideas, or other principles that I might be able to integrate into coding in my
+                                    head.
                                 </p>
                             </div>
                             <div class="col-md-5 offset-lg-1">
