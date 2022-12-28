@@ -184,9 +184,12 @@
                                                 </ul>
                                             </nav>
                                         </div>
+                                        <?php
+                                            $token = md5(rand(1, 10) . microtime());
+                                        ?>
                                         <div class="d-print-none"><a
                                                 class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3"
-                                                href="https://res.cloudinary.com/boxity-id/image/upload/q_100/v1671158442/CV_Bintang_Tobing_Latest_Update_yp8lok.pdf"
+                                                href="{!!asset('business/CV Bintang Tobing Latest Update.pdf?v='.$token)!!}"
                                                 data-aos="fade-right" data-aos-delay="700">See Resume</a><a
                                                 class="btn btn-info btn-lg shadow-sm mt-1"
                                                 href="mailto:hello@bintangtobing.com" data-aos="fade-left"
