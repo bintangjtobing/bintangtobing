@@ -177,7 +177,7 @@
                                                                 class="menu-title sr-only">Github</span></a>
                                                     </li>
                                                     <li class="nav-item"><a class="nav-link"
-                                                            href="https://behance.com/bintangjtobing" title="behance"><i
+                                                            href="https://behance.net/bintangjtobing" title="behance"><i
                                                                 class="fa-brands fa-behance"></i><span
                                                                 class="menu-title sr-only">Behance</span></a>
                                                     </li>
@@ -766,7 +766,7 @@
                                     title="Github"><i class="fa-brands fa-github"></i><span
                                         class="menu-title sr-only">Github</span></a>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="https://behance.com/bintangjtobing"
+                            <li class="nav-item"><a class="nav-link" href="https://behance.net/bintangjtobing"
                                     title="Behance"><i class="fa-brands fa-behance"></i><span
                                         class="menu-title sr-only">Behance</span></a>
                             </li>
