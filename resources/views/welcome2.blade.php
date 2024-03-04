@@ -191,7 +191,7 @@
                                         target="_blank">
                                         <div><i class="bi-box-arrow-up-right"></i> Portfolio</div>
                                     </a></li>
-                                <li class="menu-item"><a class="menu-link" href="{!! asset('business/CV Bintang Tobing Latest Update.pdf?v=' . $token) !!}"
+                                <li class="menu-item"><a class="menu-link" href="https://read.cv/bintangjtobing"
                                         target="_blank">
                                         <div><i class="bi-box-arrow-up-right"></i> Curriculum Vitae</div>
                                     </a></li>
