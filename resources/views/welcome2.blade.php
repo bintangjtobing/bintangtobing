@@ -191,7 +191,7 @@
                                         target="_blank">
                                         <div><i class="bi-box-arrow-up-right"></i> Portfolio</div>
                                     </a></li>
-                                <li class="menu-item"><a class="menu-link" href="https://read.cv/bintangjtobing"
+                                <li class="menu-item"><a class="menu-link" href="https://cv.bintangtobing.com"
                                         target="_blank">
                                         <div><i class="bi-box-arrow-up-right"></i> Curriculum Vitae</div>
                                     </a></li>
